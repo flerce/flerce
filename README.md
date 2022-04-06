@@ -1,4 +1,4 @@
-- 👋 Hi, I’m flerce
+- 👋 Hi, I’m lerce
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning py
 - 📫 flerce@protonmail.com
